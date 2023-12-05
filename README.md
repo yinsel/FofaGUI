@@ -16,3 +16,9 @@
 2、进入fofa官网并登录账号，点击插件，选择Export->Export as JSON，粘贴到`cookie`文件夹下的`fofa.json`。
 
 3、运行exe，输入查询内容并点击查询，数秒后查询结果文件将输出到 `查询结果 `文件夹下，并自动打开。
+
+## 参考文章
+
+FofaAPI逆向部分：
+
+[RinkoQwQ's blog][https://blog.rinkoqwq.com/2021/07/21/fofa-API-%E7%AD%BE%E5%90%8D%E9%80%86%E5%90%91/]
