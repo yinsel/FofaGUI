@@ -1,0 +1,6 @@
+asyncio
+aiohttp
+openpyxl
+rsa
+PyQt5
+qasync
