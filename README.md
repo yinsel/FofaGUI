@@ -9,9 +9,9 @@
 
 1、安装浏览器插件Cookie Editor：
 
-- Edge：[Cookie Editor][https://microsoftedge.microsoft.com/addons/detail/cookieeditor/neaplmfkghagebokkhpjpoebhdledlfi?hl=zh-CN]
+- Edge：[Cookie Editor](https://microsoftedge.microsoft.com/addons/detail/cookieeditor/neaplmfkghagebokkhpjpoebhdledlfi?hl=zh-CN)
 
-- Chrome：[Cookie Editor][https://chrome.google.com/webstore/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm?utm_source=ext_sidebar&hl=zh-CN]
+- Chrome：[Cookie Editor](https://chrome.google.com/webstore/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm?utm_source=ext_sidebar&hl=zh-CN)
 
 2、进入fofa官网并登录账号，点击插件，选择Export->Export as JSON，粘贴到`cookie`文件夹下的`fofa.json`。
 
@@ -21,4 +21,4 @@
 
 FofaAPI逆向部分：
 
-[RinkoQwQ's blog][https://blog.rinkoqwq.com/2021/07/21/fofa-API-%E7%AD%BE%E5%90%8D%E9%80%86%E5%90%91/]
+[RinkoQwQ's blog](https://blog.rinkoqwq.com/2021/07/21/fofa-API-%E7%AD%BE%E5%90%8D%E9%80%86%E5%90%91/)
